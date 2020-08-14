@@ -16,6 +16,15 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<br />
+<br />
+
+## Latest Youtube Videos (French)
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+
 [website]: https://lvlup.fr
 [twitter]: https://twitter.com/dsampaolo
 [youtube]: https://youtube.com/c/DidierSampaolo
