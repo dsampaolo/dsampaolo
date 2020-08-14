@@ -27,6 +27,9 @@
 ## Latest Youtube Videos (French)
 
 <!-- YOUTUBE:START -->
+- [PHP5.4 : Zoom sur quelques nouveautés](https://www.youtube.com/watch?v=v9WAax_kCa8)
+- [Premier jeu multijoueur avec node.js et socket.io](https://www.youtube.com/watch?v=zcr1TTkdZiI)
+- [Première approche de nodejs + socket.io](https://www.youtube.com/watch?v=88bzDVO9zV8)
 <!-- YOUTUBE:END -->
 
 
