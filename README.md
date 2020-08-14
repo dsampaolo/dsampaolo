@@ -14,6 +14,11 @@
 ## Latest Blog Posts (French)
 
 <!-- BLOG-POST-LIST:START -->
+- [Combien facturer quand on bosse en freelance ?](https://lvlup.fr/facturation-freelance)
+- [Printing the web, part 2: HTML and CSS for printing books](https://lvlup.fr/bookmark/printing-the-web-part-2-html-and-css-for-printing-books)
+- [Ring watched your kids trick or treat and then bragged about it](https://lvlup.fr/bookmark/ring-watched-your-kids-trick-or-treat-and-then-bragged-about-it)
+- [Est-ce qu'on met en prod le vendredi ?](https://lvlup.fr/mise-en-prod-vendredi)
+- [Pourquoi j'ai un canard en plastique sur mon bureau](https://lvlup.fr/rubber-duck-debugging)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
