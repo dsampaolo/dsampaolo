@@ -21,11 +21,11 @@ Nous hybridons **conseil stratégique** et **réalisation technique** pour dépl
 ## Les derniers articles sur notre blog
 
 <!-- BLOG-POSTS-LIST:START -->
-- [Combien facturer quand on bosse en freelance ?](https://lvlup.fr/facturation-freelance)
-- [Printing the web, part 2: HTML and CSS for printing books](https://lvlup.fr/bookmark/printing-the-web-part-2-html-and-css-for-printing-books)
-- [Ring watched your kids trick or treat and then bragged about it](https://lvlup.fr/bookmark/ring-watched-your-kids-trick-or-treat-and-then-bragged-about-it)
-- [Est-ce qu'on met en prod le vendredi ?](https://lvlup.fr/mise-en-prod-vendredi)
-- [Pourquoi j'ai un canard en plastique sur mon bureau](https://lvlup.fr/rubber-duck-debugging)
+- [TOON : tout savoir sur le format qui pourrait remplacer le JSON](https://www.lvlup.fr/blog/toon-format-remplacerait-json)
+- [Motiver ses salariés : le mythe d&#39;Adam et d&#39;Abraham &lpar;Herzberg&rpar;](https://www.lvlup.fr/blog/motiver-equipes-deux-facteurs-herzberg)
+- [[Étude] Presse française versus IA : qui bloque quel bot ?](https://www.lvlup.fr/blog/etude-presse-francaise-ia-bloque-bot)
+- [Pourquoi votre projet digital n&#39;avance pas ?](https://www.lvlup.fr/blog/tma-et-over-engineering)
+- [Notre avis sur Laravel Boost : on l&#39;a testé, et voici ce qu&#39;on en pense &lpar;du bien&rpar;](https://www.lvlup.fr/blog/avis-laravel-boost)
 <!-- BLOG-POSTS-LIST:END -->
 
 <br />
