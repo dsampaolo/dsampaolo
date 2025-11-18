@@ -39,11 +39,17 @@ Nous hybridons **conseil stratégique** et **réalisation technique** pour dépl
 - [Première approche de nodejs + socket.io](https://www.youtube.com/watch?v=88bzDVO9zV8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
+<br />
+<br />
+
 ## Mes comptes personnels
 
 [twitter]: https://twitter.com/dsampaolo
 [linkedin]: https://linkedin.com/in/dsampaolo/
 [bluesky]: https://bsky.app/profile/dsampaolo.bsky.social
+
+<br />
+<br />
 
 ## Les comptes de l'Agence LVLUP
 
@@ -52,3 +58,41 @@ Nous hybridons **conseil stratégique** et **réalisation technique** pour dépl
 [linkedin]: https://www.linkedin.com/company/agence-lvlup/
 [bluesky]: https://bsky.app/profile/agence-lvlup.bsky.social
 [mastodon]: https://mastodon.social/@agence_lvlup
+
+(test)
+
+## 🤝 Mes comptes personnels
+
+<p align="left">
+  <a href="https://twitter.com/dsampaolo" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter X"/>
+  </a>
+  <a href="https://linkedin.com/in/dsampaolo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://bsky.app/profile/dsampaolo.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/>
+  </a>
+</p>
+
+<br />
+
+## 🚀 Les comptes de l'Agence LVLUP
+
+<p align="left">
+  <a href="https://www.lvlup.fr" target="_blank">
+    <img src="https://img.shields.io/badge/Site_Web-LVLUP.fr-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://x.com/Agence_LVLUP" target="_blank">
+    <img src="https://img.shields.io/badge/Agence_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Agence Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/company/agence-lvlup/" target="_blank">
+    <img src="https://img.shields.io/badge/Agence_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Agence LinkedIn"/>
+  </a>
+  <a href="https://bsky.app/profile/agence-lvlup.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/Agence_Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Agence Bluesky"/>
+  </a>
+  <a href="https://mastodon.social/@agence_lvlup" target="_blank">
+    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/>
+  </a>
+</p>
