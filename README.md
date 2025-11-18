@@ -46,13 +46,13 @@ Nous hybridons **conseil stratégique** et **réalisation technique** pour dépl
 
 <p align="left">
   <a href="https://twitter.com/dsampaolo" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="sur X/Twitter"/>
+    <img src="https://img.shields.io/badge/sur_X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="sur X/Twitter"/>
   </a>
   <a href="https://linkedin.com/in/dsampaolo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sur LinkedIn"/>
+    <img src="https://img.shields.io/badge/sur_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sur LinkedIn"/>
   </a>
   <a href="https://bsky.app/profile/dsampaolo.bsky.social" target="_blank">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="sur Bluesky"/>
+    <img src="https://img.shields.io/badge/sur_BlueSky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="sur Bluesky"/>
   </a>
 </p>
 
@@ -65,15 +65,15 @@ Nous hybridons **conseil stratégique** et **réalisation technique** pour dépl
     <img src="https://img.shields.io/badge/Site_Web-LVLUP.fr-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="notre site"/>
   </a>
   <a href="https://x.com/Agence_LVLUP" target="_blank">
-    <img src="https://img.shields.io/badge/Agence_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="sur X/Twitter"/>
+    <img src="https://img.shields.io/badge/sur_X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="sur X/Twitter"/>
   </a>
   <a href="https://www.linkedin.com/company/agence-lvlup/" target="_blank">
-    <img src="https://img.shields.io/badge/Agence_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sur LinkedIn"/>
+    <img src="https://img.shields.io/badge/sur_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sur LinkedIn"/>
   </a>
   <a href="https://bsky.app/profile/agence-lvlup.bsky.social" target="_blank">
-    <img src="https://img.shields.io/badge/Agence_Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="sur Bluesky"/>
+    <img src="https://img.shields.io/badge/sur_BlueSky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="sur Bluesky"/>
   </a>
   <a href="https://mastodon.social/@agence_lvlup" target="_blank">
-    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="sur Mastodon"/>
+    <img src="https://img.shields.io/badge/sur_Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="sur Mastodon"/>
   </a>
 </p>
