@@ -2,17 +2,15 @@ name: Latest youtube videos workflow
 
 on:
   schedule:
-    # J'ai mis à 00:00 (minuit) au lieu de toutes les heures.
-    # Ça économise tes ressources GitHub gratuites.
     - cron: '0 0 * * *'
-  workflow_dispatch: # Permet de lancer manuellement via l'interface
+  workflow_dispatch: 
 
 jobs:
   update-youtube:
     name: Update this repo's README with latest youtube videos
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Indispensable pour que le bot ait le droit de sauvegarder
+      contents: write 
     steps:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
