@@ -1,39 +1,54 @@
 [![Website](https://img.shields.io/website?label=lvlup.fr&style=for-the-badge&url=https%3A%2F%2Fwww.lvlup.fr)](https://www.lvlup.fr)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dsampaolo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdsampaolo&screen_name=dsampaolo)
 
-## Social
 
-[<img align="left" alt="lvlup.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="dsampaolo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="dsampaolo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="dsampaolo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+Je m'appelle **Didier Sampaolo** et j'ai fondé [l'Agence LVLUP](https://www.lvlup.fr/).
+
+Nous concevons des architectures d'automatisation sur-mesure pour éliminer la **friction opérationnelle** qui ralentit votre croissance. 
+
+Nous hybridons **conseil stratégique** et **réalisation technique** pour déployer des solutions souveraines (hébergement français) et sécurisées (Privacy by Design). Qu'il s'agisse d'orchestrer des APIs complexes, de développer des scripts robustes ou d'intégrer de l'IA locale, nous privilégions toujours l'approche la plus pragmatique pour garantir des résultats rapides et durables.
 
 <br />
 <br />
 
-## Latest Blog Posts (French)
+## Technologies favorites
 
-<!-- BLOG-POST-LIST:START -->
+<img src="https://skillicons.dev/icons?i=php,python,laravel,js,html,css,git,mysql,linux,debian,n8n" />
+
+<br />
+<br />
+
+## Les derniers articles sur notre blog
+
+<!-- BLOG-POSTS-LIST:START -->
 - [Combien facturer quand on bosse en freelance ?](https://lvlup.fr/facturation-freelance)
 - [Printing the web, part 2: HTML and CSS for printing books](https://lvlup.fr/bookmark/printing-the-web-part-2-html-and-css-for-printing-books)
 - [Ring watched your kids trick or treat and then bragged about it](https://lvlup.fr/bookmark/ring-watched-your-kids-trick-or-treat-and-then-bragged-about-it)
 - [Est-ce qu'on met en prod le vendredi ?](https://lvlup.fr/mise-en-prod-vendredi)
 - [Pourquoi j'ai un canard en plastique sur mon bureau](https://lvlup.fr/rubber-duck-debugging)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POSTS-LIST:END -->
 
 <br />
 <br />
 
-## Latest Youtube Videos (French)
+## Nos dernières vidéos sur Youtube
 
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE-VIDEOS-LIST:START -->
 - [PHP5.4 : Zoom sur quelques nouveautés](https://www.youtube.com/watch?v=v9WAax_kCa8)
 - [Premier jeu multijoueur avec node.js et socket.io](https://www.youtube.com/watch?v=zcr1TTkdZiI)
 - [Première approche de nodejs + socket.io](https://www.youtube.com/watch?v=88bzDVO9zV8)
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
 
+## Mes comptes personnels
 
-[website]: https://lvlup.fr
 [twitter]: https://twitter.com/dsampaolo
-[youtube]: https://youtube.com/c/DidierSampaolo
 [linkedin]: https://linkedin.com/in/dsampaolo/
+[bluesky]: https://bsky.app/profile/dsampaolo.bsky.social
+
+## Les comptes de l'Agence LVLUP
+
+[website]: https://www.lvlup.fr
+[twitter]: https://x.com/Agence_LVLUP
+[linkedin]: https://www.linkedin.com/company/agence-lvlup/
+[bluesky]: https://bsky.app/profile/agence-lvlup.bsky.social
+[mastodon]: https://mastodon.social/@agence_lvlup

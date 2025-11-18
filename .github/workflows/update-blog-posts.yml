@@ -1,0 +1,20 @@
+name: Update README with Links to latest blog posts
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-blog-posts:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update README with blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG-POSTS-LIST" 
+          feed_list: "https://www.lvlup.fr/feed"
+          max_post_count: 5
