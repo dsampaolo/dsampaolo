@@ -21,11 +21,11 @@ Nous hybridons **conseil stratégique** et **réalisation technique** pour dépl
 ## Les derniers articles sur notre blog
 
 <!-- BLOG-POSTS-LIST:START -->
+- [Management par le contrôle : pourquoi il est obsolète et comment le remplacer](https://www.lvlup.fr/blog/le-management-par-le-controle-est-mort)
 - [Claude Opus 4.5 : Le nouveau standard pour le code ? &lpar;Test et analyse&rpar;](https://www.lvlup.fr/blog/claude-opus-4-5)
 - [Optimisation de planning : Pourquoi le LLM est une erreur &lpar;cas pratique&rpar;](https://www.lvlup.fr/blog/optimisation-de-planning-llm-erreur)
 - [TOON : tout savoir sur le format qui pourrait remplacer le JSON](https://www.lvlup.fr/blog/toon-format-remplacerait-json)
 - [Motiver ses salariés : le mythe d&#39;Adam et d&#39;Abraham &lpar;Herzberg&rpar;](https://www.lvlup.fr/blog/motiver-equipes-deux-facteurs-herzberg)
-- [[Étude] Presse française versus IA : qui bloque quel bot ?](https://www.lvlup.fr/blog/etude-presse-francaise-ia-bloque-bot)
 <!-- BLOG-POSTS-LIST:END -->
 
 <br />
