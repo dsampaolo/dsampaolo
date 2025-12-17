@@ -21,11 +21,11 @@ Nous hybridons **conseil stratégique** et **réalisation technique** pour dépl
 ## Les derniers articles sur notre blog
 
 <!-- BLOG-POSTS-LIST:START -->
+- [Regard sur l&#39;IA / Romain Ganneau &lpar;Silver Valley&rpar; : L&#39;IA sans service ne vaut rien](https://www.lvlup.fr/blog/romain-ganneau-silver-valley-ia-transition-demographique)
 - [ChatGPT prépare des publicités pour 2026, la fin du gratuit](https://www.lvlup.fr/blog/chatgpt-prepare-des-publicites-pour-2026)
 - [Performance et culture d&#39;entreprise : les coûts cachés des heures supplémentaires](https://www.lvlup.fr/blog/arretez-de-valoriser-les-heures-supplementaires)
 - [Management par le contrôle : pourquoi il est obsolète et comment le remplacer](https://www.lvlup.fr/blog/le-management-par-le-controle-est-mort)
 - [Claude Opus 4.5 : Le nouveau standard pour le code ? &lpar;Test et analyse&rpar;](https://www.lvlup.fr/blog/claude-opus-4-5)
-- [Optimisation de planning : Pourquoi le LLM est une erreur &lpar;cas pratique&rpar;](https://www.lvlup.fr/blog/optimisation-de-planning-llm-erreur)
 <!-- BLOG-POSTS-LIST:END -->
 
 <br />
