@@ -34,11 +34,11 @@ Nous hybridons **conseil stratégique** et **réalisation technique** pour dépl
 ## Nos dernières vidéos sur Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Héberger son site web à la maison : Fausse bonne idée ?](https://www.youtube.com/shorts/oC_bpqJcUBo)
 - [C&#39;est quoi une API ? &lpar;Expliqué simplement&rpar; 💡](https://www.youtube.com/shorts/XsY2jNHgvFU)
 - [Pas besoin de GPU : Un planning d&#39;hôpital géré par un Raspberry Pi](https://www.youtube.com/watch?v=i4On324uJ9Y)
 - [Le Shadow AI](https://www.youtube.com/shorts/31iP-UO8FW8)
 - [L&#39;IA pour stopper la roue du hamster au bureau. #shorts](https://www.youtube.com/shorts/xbOG-Tg247c)
-- [De la mode à l’IA : Fine-tuner une IA pour l’adapter à votre business](https://www.youtube.com/watch?v=6zyUR9iYQ6E)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 <br />
