@@ -21,11 +21,11 @@ Nous hybridons **conseil stratégique** et **réalisation technique** pour dépl
 ## Les derniers articles sur notre blog
 
 <!-- BLOG-POSTS-LIST:START -->
+- [Méthodologie d&#39;automatisation des process : Étude de cas Paie](https://www.lvlup.fr/blog/etude-de-cas-automatisation-paie)
 - [LVLUP lance son Laboratoire](https://www.lvlup.fr/blog/lvlup-lance-laboratoire)
 - [Comparatif : Générateurs vidéo IA en 2026](https://www.lvlup.fr/blog/comparatif-generateur-video-ia-2026)
 - [Regard sur l&#39;IA / Mathieu Flaig &lpar;SQORUS&rpar; : L&#39;IA n&#39;est pas une étape, c&#39;est une réinvention](https://www.lvlup.fr/blog/mathieu-flaig-sqorus-ia-reinvention-entreprise)
 - [Regard sur l&#39;IA / Romain Ganneau &lpar;Silver Valley&rpar; : L&#39;IA sans service ne vaut rien](https://www.lvlup.fr/blog/romain-ganneau-silver-valley-ia-transition-demographique)
-- [ChatGPT prépare des publicités pour 2026, la fin du gratuit](https://www.lvlup.fr/blog/chatgpt-prepare-des-publicites-pour-2026)
 <!-- BLOG-POSTS-LIST:END -->
 
 <br />
