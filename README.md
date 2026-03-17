@@ -21,11 +21,11 @@ Nous hybridons **conseil stratégique** et **réalisation technique** pour dépl
 ## Les derniers articles sur notre blog
 
 <!-- BLOG-POSTS-LIST:START -->
+- [Regard sur l&#39;IA / Lior Chamla &lpar;dev&rpar; : Les médecins avant les devs, l&#39;IA et l&#39;apprentissage](https://www.lvlup.fr/blog/lior-chamla-ia-apprentissage-developpeurs-medecins)
 - [Cas d&#39;usage : Quand l&#39;IA devient votre meilleur outil de Knowledge Management](https://www.lvlup.fr/blog/agent-ia-apprendre)
 - [8 ans de LVLUP : De la technique pure à l&#39;efficacité opérationnelle](https://www.lvlup.fr/blog/huitieme-anniversaire)
 - [Méthodologie d&#39;automatisation des process : Étude de cas Paie](https://www.lvlup.fr/blog/etude-de-cas-automatisation-paie)
 - [LVLUP lance son Laboratoire](https://www.lvlup.fr/blog/lvlup-lance-laboratoire)
-- [Comparatif : Générateurs vidéo IA en 2026](https://www.lvlup.fr/blog/comparatif-generateur-video-ia-2026)
 <!-- BLOG-POSTS-LIST:END -->
 
 <br />
