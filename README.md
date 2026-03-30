@@ -21,11 +21,11 @@ Nous hybridons **conseil stratégique** et **réalisation technique** pour dépl
 ## Les derniers articles sur notre blog
 
 <!-- BLOG-POSTS-LIST:START -->
+- [Package Laravel : User is Admin](https://www.lvlup.fr/blog/package-laravel-user-is-admin)
+- [Package Laravel : User Last Seen At](https://www.lvlup.fr/blog/package-laravel-user-last-seen-at)
 - [LVLUP x Syazen : Le code sur-mesure rencontre l&#39;hébergement haute fiabilité](https://www.lvlup.fr/blog/lvlup-syazen)
 - [Regard sur l&#39;IA / Lior Chamla &lpar;dev&rpar; : Les médecins avant les devs, l&#39;IA et l&#39;apprentissage](https://www.lvlup.fr/blog/lior-chamla-ia-apprentissage-developpeurs-medecins)
 - [Cas d&#39;usage : Quand l&#39;IA devient votre meilleur outil de Knowledge Management](https://www.lvlup.fr/blog/agent-ia-apprendre)
-- [8 ans de LVLUP : De la technique pure à l&#39;efficacité opérationnelle](https://www.lvlup.fr/blog/huitieme-anniversaire)
-- [Méthodologie d&#39;automatisation des process : Étude de cas Paie](https://www.lvlup.fr/blog/etude-de-cas-automatisation-paie)
 <!-- BLOG-POSTS-LIST:END -->
 
 <br />
