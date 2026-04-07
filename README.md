@@ -21,11 +21,11 @@ Nous hybridons **conseil stratégique** et **réalisation technique** pour dépl
 ## Les derniers articles sur notre blog
 
 <!-- BLOG-POSTS-LIST:START -->
+- [IA en entreprise : le vrai goulot d&#39;étranglement n&#39;est pas la tech](https://www.lvlup.fr/blog/ia-entreprise-mapping-problem-etude-insead)
 - [Fermeture de Sora : pourquoi OpenAI tue son générateur vidéo IA](https://www.lvlup.fr/blog/fermeture-sora-openai-generateur-video-ia)
 - [Mistral AI : 830 millions pour un data center souverain](https://www.lvlup.fr/blog/mistral-ai-data-center-dette-souverainete-ia-europeenne)
 - [Fruit Love Island : la télé-réalité IA qui a conquis TikTok](https://www.lvlup.fr/blog/fruit-love-island-tele-realite-ia-tiktok)
 - [Package Laravel : User is Admin](https://www.lvlup.fr/blog/package-laravel-user-is-admin)
-- [Package Laravel : User Last Seen At](https://www.lvlup.fr/blog/package-laravel-user-last-seen-at)
 <!-- BLOG-POSTS-LIST:END -->
 
 <br />
