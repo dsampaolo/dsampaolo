@@ -21,11 +21,11 @@ Nous hybridons **conseil stratégique** et **réalisation technique** pour dépl
 ## Les derniers articles sur notre blog
 
 <!-- BLOG-POSTS-LIST:START -->
+- [Deep Work en entreprise : le vrai coût des interruptions au bureau](https://www.lvlup.fr/blog/deep-work-quand-eric-passait-nous-voir-toutes-les-heures)
 - [Recherche d&#39;information en entreprise : le coût caché de 20% de votre masse salariale](https://www.lvlup.fr/blog/cout-cache-recherche-information-entreprise)
 - [IA en entreprise : le vrai goulot d&#39;étranglement n&#39;est pas la tech](https://www.lvlup.fr/blog/ia-entreprise-mapping-problem-etude-insead)
 - [Fermeture de Sora : pourquoi OpenAI tue son générateur vidéo IA](https://www.lvlup.fr/blog/fermeture-sora-openai-generateur-video-ia)
 - [Mistral AI : 830 millions pour un data center souverain](https://www.lvlup.fr/blog/mistral-ai-data-center-dette-souverainete-ia-europeenne)
-- [Fruit Love Island : la télé-réalité IA qui a conquis TikTok](https://www.lvlup.fr/blog/fruit-love-island-tele-realite-ia-tiktok)
 <!-- BLOG-POSTS-LIST:END -->
 
 <br />
