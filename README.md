@@ -21,11 +21,11 @@ Nous hybridons **conseil stratégique** et **réalisation technique** pour dépl
 ## Les derniers articles sur notre blog
 
 <!-- BLOG-POSTS-LIST:START -->
+- [Nouveaux modèles : GPT6 Sol et Luna, Grok 4.7, Opus 5.5](https://www.lvlup.fr/blog/nouveaux-modeles-22-sept-2026)
 - [JEV](https://www.lvlup.fr/blog/typesafe-jev)
 - [Sécuriser une application web : les leçons des hacks du service public](https://www.lvlup.fr/blog/securite-web)
 - [Watermark Claude : comment Anthropic marque les textes générés par IA](https://www.lvlup.fr/blog/bien-comprendre-le-watermark-danthropic)
 - [Comparatif : Transcription IA de réunions en 2026](https://www.lvlup.fr/blog/comparatif-transcription-reunion-ia)
-- [Journée mondiale de la paresse : automatiser les tâches répétitives](https://www.lvlup.fr/blog/journee-mondiale-paresse-2026)
 <!-- BLOG-POSTS-LIST:END -->
 
 <br />
