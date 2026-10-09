@@ -34,11 +34,11 @@ Nous hybridons **conseil stratégique** et **réalisation technique** pour dépl
 ## Nos dernières vidéos sur Youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Challenge : un site de veille IA 100 % automatique en 2 jours](https://www.youtube.com/watch?v=VPv4vsCkwf8)
 - [Jev vs BERT : classer, router, taguer avec le modèle de TypeSafe AI](https://www.youtube.com/watch?v=BEhbglltMSw)
 - [Vous avez des logiciels, ou un Système d&#39;Information ?](https://www.youtube.com/watch?v=kjBVt5WFhtY)
 - [Héberger son site web à la maison : Fausse bonne idée ?](https://www.youtube.com/shorts/oC_bpqJcUBo)
 - [C&#39;est quoi une API ? &lpar;Expliqué simplement&rpar; 💡](https://www.youtube.com/shorts/XsY2jNHgvFU)
-- [Pas besoin de GPU : Un planning d&#39;hôpital géré par un Raspberry Pi](https://www.youtube.com/watch?v=i4On324uJ9Y)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 <br />
